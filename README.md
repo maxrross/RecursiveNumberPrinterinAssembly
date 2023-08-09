@@ -1,1 +1,2 @@
 # RecursiveNumberPrinterinAssembly
+An Assembly Language program that performs recursive operations. The user inputs a number and the program will print the numbers from that number down to zero and then back up to the original number. This recursion is handled in assembly with careful management of the stack to store and retrieve return addresses. The program also includes error handling for negative inputs.
